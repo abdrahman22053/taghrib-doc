@@ -109,7 +109,7 @@ Taghrib addresses several challenges in the current administrative process:
 
 ## Note on Code Availability ⚠️
 
-The code for Taghrib is **private** and cannot be publicly released, as it was developed by **Richatt** for the **Ministry of the Interior**.
+The code for Taghrib is **private** and cannot be publicly released, as it was developed by [**Richatt**](https://richatt.com) for the [**Ministry of the Interior**](https://www.interieur.gov.mr/fr/node/26).
 
 ---
 
