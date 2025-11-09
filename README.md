@@ -5,9 +5,9 @@
 ---
 
 <div style="display:flex; flex-direction:column; gap:0; align-items:center;">
-  <img src="./assets/taghrib-first-page.png" alt="Taghrib Logo" style="display:block;" />
-  <img src="./assets/taghrib-second-page.png" alt="Web UI Screenshot" style="display:block;" />
-  <img src="./assets/taghrib-3-page.png" alt="Mobile UI Screenshot" style="display:block;" />
+  <img src="./assets/taghrib-first-page.png" alt="UI Screenshot" style="display:block;" />
+  <img src="./assets/taghrib-second-page.png" alt="UI Screenshot" style="display:block;" />
+  <img src="./assets/taghrib-3-page.png" alt="UI Screenshot" style="display:block;" />
 </div>
 
 
@@ -90,10 +90,10 @@ Taghrib addresses several challenges in the current administrative process:
 **Technologies & Frameworks Badges:**  
 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)](https://angular.io/)  
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)  
+[![ng-bootstrap](https://img.shields.io/badge/-ng--bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://ng-bootstrap.github.io/)  
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)  
 [![PrimeNG](https://img.shields.io/badge/-PrimeNG-2C3E50?logo=primeng&logoColor=fff)](https://www.primefaces.org/primeng/)  
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/)  
+[![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?logo=flutter&logoColor=fff)](https://flutterflow.io/)  
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=fff)](https://spring.io/projects/spring-boot)  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 
@@ -109,7 +109,7 @@ Taghrib addresses several challenges in the current administrative process:
 
 ## Note on Code Availability ⚠️
 
-The code for Taghrib is **private** and cannot be publicly released, as it was developed by [**Richatt**](https://richatt.com) for the [**Ministry of the Interior**](https://www.interieur.gov.mr/fr/node/26).
+The code for **Taghrib** is **private** and cannot be publicly released, as it was developed by [**Richatt**](https://richatt.com) for the [**Ministry of the Interior**](https://www.interieur.gov.mr/fr/node/26).
 
 ---
 
