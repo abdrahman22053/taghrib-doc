@@ -4,11 +4,12 @@
 
 ---
 
-<div style="line-height:0;">
-  <img src="./assets/taghrib-first-page.png" alt="Taghrib Logo" style="display:block; margin:0; padding:0;" />
-  <img src="./assets/taghrib-second-page.png" alt="Web UI Screenshot" style="display:block; margin:0; padding:0;" />
-  <img src="./assets/taghrib-3-page.png" alt="Mobile UI Screenshot" style="display:block; margin:0; padding:0;" />
+<div style="display:flex; flex-direction:column; gap:0; align-items:center;">
+  <img src="./assets/taghrib-first-page.png" alt="Taghrib Logo" style="display:block;" />
+  <img src="./assets/taghrib-second-page.png" alt="Web UI Screenshot" style="display:block;" />
+  <img src="./assets/taghrib-3-page.png" alt="Mobile UI Screenshot" style="display:block;" />
 </div>
+
 
 
 ---
